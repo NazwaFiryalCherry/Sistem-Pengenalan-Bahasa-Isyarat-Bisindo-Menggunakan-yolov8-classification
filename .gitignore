@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+abjad/dataset/
+angka/dataset/
+kata/dataset/
+
+# Hasil training YOLO
+abjad/runs/
+angka/runs/
+kata/runs/
+
+# ZIP
+*.zip
+
+# VS Code
+.vscode/
+
+**/yolo26n.pt
+**/yolov8n-cls.pt
