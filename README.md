@@ -211,6 +211,8 @@ Mahasiswa Teknik Informatika
 Jurusan Teknologi Informasi dan Komputer  
 Politeknik Negeri Lhokseumawe
 
+Video demo tampilan dapat dilihat pada youtube dibawah ini
+> **https://youtu.be/s9JNVkOOAKw?si=5jIn1o6yZ9Aa2Tct**
 ---
 
 ## 📄 Lisensi
