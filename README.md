@@ -95,7 +95,7 @@ Karena ukuran dataset cukup besar, dataset **tidak disertakan** dalam repository
 
 Dataset dapat diakses melalui Kaggle:
 
-> **Tambahkan link Kaggle dataset milikmu di sini.**
+> **https://www.kaggle.com/datasets/jhanzwaa/dataset-bisindo**
 
 ---
 
@@ -109,17 +109,11 @@ Dataset dapat diakses melalui Kaggle:
 
 ### Kata BISINDO
 
-Contoh kategori:
-
-- Halo
-- Terima Kasih
-- Tolong
-- Maaf
-- Saya
-- Kamu
-
-> **Sesuaikan daftar kata di atas dengan kategori yang benar-benar digunakan pada datasetmu.**
-
+- Keren
+- Terlambat
+- Paham
+- Berhenti
+- Tunggu
 ---
 
 ## 🔄 Alur Kerja Sistem
@@ -208,8 +202,6 @@ Output sistem berupa:
 - Nilai **confidence** dari hasil prediksi.
 - Tampilan hasil klasifikasi secara **real-time** menggunakan webcam.
 
-> **Tambahkan screenshot hasil prediksi atau tampilan aplikasi pada bagian ini agar repository lebih menarik.**
-
 ---
 
 ## 👩‍💻 Pengembang
@@ -225,6 +217,4 @@ Politeknik Negeri Lhokseumawe
 
 Project ini menggunakan **MIT License**.
 
-Dataset yang digunakan tetap mengikuti lisensi dari masing-masing sumber, seperti **Kaggle**, **Roboflow**, maupun dataset yang dikumpulkan secara mandiri.
-- NumPy
-- PyTorch
+Dataset yang digunakan pada penelitian ini terdiri atas dataset yang dikumpulkan secara mandiri menggunakan webcam serta dataset yang diperoleh dari Kaggle dan Roboflow. Penggunaan dataset dari Kaggle dan Roboflow mengikuti ketentuan lisensi yang berlaku pada masing-masing dataset.
